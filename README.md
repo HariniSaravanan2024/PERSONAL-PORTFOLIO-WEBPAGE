@@ -48,3 +48,7 @@ The CSS complements the HTML with a dark theme and modern design choices:
 Summary
 
 This portfolio website is a great example of how to present personal information and projects in a clean, responsive, and visually appealing manner. It combines basic web development skills with thoughtful design to create a professional online resume.
+
+OUTPUT OF THE TASK :
+
+![Image](https://github.com/user-attachments/assets/5dfe0e41-77b9-42e4-96f3-ff88eea8f2af)
